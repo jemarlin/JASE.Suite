@@ -1,0 +1,26 @@
+﻿
+## Ignore Visual Studio build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+## Ignore Rider / JetBrains
+.idea/
+
+## Ignore build results
+*.dll
+*.exe
+*.pdb
+
+## Ignore logs and temp
+*.log
+*.tmp
+
+## Ignore user secrets
+secrets.json
+
+## Ignore OS junk
+.DS_Store
+Thumbs.db
